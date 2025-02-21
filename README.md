@@ -6,3 +6,5 @@ Running this code involves having a together ai api key and the following librai
 nltk
 pandas
 togehter
+Start a instance of jupyter notebook and run the cells in order, this could take sometime.
+
